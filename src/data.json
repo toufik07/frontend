@@ -1,0 +1,45 @@
+{
+	"data":[{
+	"id": 1,
+	"name": "Iphone10",
+	"rating": "34565",
+	"price": "4534",
+	"image": "https://ik.imagekit.io/amazon123/71i2XhHU3pL._AC_UL640_FMwebp_QL65__bSvBM9yyu9E.webp?updatedAt=1628852293583",
+	"dis":"this is simple project"
+}, {
+	"id": 2,
+	"name": "Iphone11",
+	"rating": "6568",
+	"price": "76543",
+	"image": "https://ik.imagekit.io/amazon123/71ZOtNdaZCL._AC_UL640_FMwebp_QL65__mSWkMhTkWnT.webp?updatedAt=1628852292388",
+	"dis":"this is simple project"
+}, {
+	"id": 3,
+	"name": "Iphone12",
+	"rating": "8754",
+	"price": "76543",
+	"image": "https://ik.imagekit.io/amazon123/71w3oJ7aWyL._AC_UL640_FMwebp_QL65__vN39lpgzi.webp?updatedAt=1628852294578",
+	"dis":"this is simple project"
+}, {
+	"id": 4,
+	"name": "Iphone13",
+	"rating": "3445",
+	"price": "637357",
+	"image": "https://ik.imagekit.io/amazon123/51PuFBgBK4L._AC_UL640_FMwebp_QL65__3iZl6oRR-.webp?updatedAt=1628852291461",
+	"dis":"this is simple project"
+	
+}, {
+	"id": 6,
+	"name": "Iphone13",
+	"rating": "3445",
+	"price": "637357",
+	"image": "https://ik.imagekit.io/amazon123/51PuFBgBK4L._AC_UL640_FMwebp_QL65__3iZl6oRR-.webp?updatedAt=1628852291461",
+	"dis":"this is simple project"
+}, {
+	"id": 5,
+	"name": "Iphone12",
+	"rating": "8754",
+	"price": "76543",
+	"image": "https://ik.imagekit.io/amazon123/51PuFBgBK4L._AC_UL640_FMwebp_QL65__3iZl6oRR-.webp?updatedAt=1628852291461",
+	"dis":"this is simple project"
+}]}

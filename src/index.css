@@ -1,0 +1,28 @@
+*{
+  font-family: Arial,sans-serif;
+    letter-spacing: -.2px;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.widget-header .icon-area{
+  color:black;
+}
+
+
+.btn-primary{
+  background-color: #070707;
+    border-color: #070707;
+}
+
+.header-main{
+  background-color: #fcb700;
+}
+.brand-wrap h2{
+  color:black;
+}
+.brand-wrap span{
+  color:white;
+}
